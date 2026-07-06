@@ -1,6 +1,6 @@
 # API REST de Productos
 
-Proyecto final del curso. API para administrar productos con Node.js, Express, Firebase Firestore y autenticacion JWT.
+Proyecto final API para administrar productos con Node.js, Express, Firebase Firestore y autenticacion JWT.
 
 ## Tecnologias
 
